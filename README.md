@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/allud1t/allud1t/main/layoutALLUD1T_GRANDE.png)
 
-# Hello, I'm allud1t! <img src="https://raw.githubusercontent.com/allud1t/allud1t/main/wavegif_1860.gif" style="zoom:10%;" />
+# Hello, I'm allud1t! <img src="https://raw.githubusercontent.com/allud1t/allud1t/main/wavegif_1860.gif" style="zoom:5%;" />
 
 Here is allud1t. I personally am called **André Casanova** and I'm a **Systems Analyst/Developer**. ​I am located in the **Campinas** region, Brazil :earth_americas:.
 
@@ -44,19 +44,7 @@ Credits: [André Casanova](https://github.com/allud1t)
 
 Last Edited: 19/02/2021
 
-
-
-
-
-
-
-
-
-
-
-
-
-[^&lt;a href=&quot;https://icons8.com/icon/98960/linkedin&quot;&gt;LinkedIn icon by Icons8&lt;/a&gt;]: 
-[^&lt;a href=&quot;https://icons8.com/icon/118466/facebook&quot;&gt;Facebook icon by Icons8&lt;/a&gt;]: 
-[^&lt;a href=&quot;https://icons8.com/icon/90210/download-resume&quot;&gt;Download Resume icon by Icons8&lt;/a&gt;]: 
+href=&quot;https://icons8.com/icon/98960/linkedin&quot
+href=&quot;https://icons8.com/icon/118466/facebook&quot
+href=&quot;https://icons8.com/icon/90210/download-resume&quot
 
