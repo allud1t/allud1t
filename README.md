@@ -20,7 +20,7 @@ I am curious by nature, so I like to learn new technologies, tools and programmi
 
 **Why allud1t?**
 
-It's a play on the Latin term *Alludit* (third-person singular present active indicative of *alludo*).
+It's a play on the Latin term *Alludit* (third-person singular present active indicative of *Alludo*).
 
 Inaccurately meaning as someone who mentions, references or mentions something.
 
@@ -44,7 +44,13 @@ Inaccurately meaning as someone who mentions, references or mentions something.
 
 
 
-## [Resume](https://drive.google.com/file/d/1RRjAVh8e9vWTZ-MOEilAhHctF9p7lrY4/view?usp=sharing) :page_facing_up:
+### [Resume](https://drive.google.com/file/d/1RRjAVh8e9vWTZ-MOEilAhHctF9p7lrY4/view?usp=sharing) :page_facing_up:
+
+
+
+------
+
+
 
 Credits: [André Casanova](https://github.com/allud1t)
 
