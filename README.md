@@ -1,6 +1,6 @@
-![layoutALLUD1T_GRANDE](C:\workspace\allud1t\layoutALLUD1T_GRANDE.png)
+![](https://raw.githubusercontent.com/allud1t/allud1t/main/layoutALLUD1T_GRANDE.png)
 
-# Hello, I'm allud1t! <img src="C:\workspace\allud1t\wavegif_1860.gif" style="zoom:10%;" />
+# Hello, I'm allud1t! <img src="https://raw.githubusercontent.com/allud1t/allud1t/main/wavegif_1860.gif" style="zoom:10%;" />
 
 Here is allud1t. I personally am called **André Casanova** and I'm a **Systems Analyst/Developer**. ​I am located in the **Campinas** region, Brazil :earth_americas:.
 
