@@ -32,9 +32,9 @@ Inaccurately meaning as someone who mentions, references or mentions something.
 
 ## Meet me around :round_pushpin:
 
-<a href="https://www.linkedin.com/in/andre-casanova/"><img src="https://img.icons8.com/ios-glyphs/48/000000/linkedin.png"/></a>[André Casanova | LinkedIn](https://www.linkedin.com/in/andre-casanova/)
+<a href="https://www.linkedin.com/in/andre-casanova/"><img src="https://img.icons8.com/ios-glyphs/48/000000/linkedin.png"/></a>		[André Casanova | LinkedIn](https://www.linkedin.com/in/andre-casanova/)
 
-<a href="https://www.facebook.com/andrefraycasanova/"><img src="https://img.icons8.com/ios-glyphs/48/000000/facebook-new.png"/></a>[André Casanova | Facebook](https://www.facebook.com/andrefraycasanova/)
+<a href="https://www.facebook.com/andrefraycasanova/"><img src="https://img.icons8.com/ios-glyphs/48/000000/facebook-new.png"/></a>		[André Casanova | Facebook](https://www.facebook.com/andrefraycasanova/)
 
 
 
@@ -44,5 +44,6 @@ Credits: [André Casanova](https://github.com/allud1t)
 
 Last Edited: 19/02/2021
 
-<https://icons8.com/icon/98960/linkedin>
-<https://icons8.com/icon/118466/facebook>
+[](https://icons8.com/icon/98960/linkedin)
+[](https://icons8.com/icon/118466/facebook)
+
