@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/allud1t/allud1t/main/layoutALLUD1T_GRANDE.png)
+![](https://raw.githubusercontent.com/allud1t/allud1t/main/allud1t-fullstack.png)
 
 # Hello, I'm allud1t!![](https://raw.githubusercontent.com/allud1t/allud1t/main/wavegif_1860.gif)
 
