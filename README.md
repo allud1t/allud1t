@@ -90,18 +90,6 @@ Sou naturalmente curioso, valorizo elegância no código e gosto de aprender nov
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=allud1t&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/allud1t)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allud1t&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/allud1t)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -205,18 +193,6 @@ It's a wordplay with the Latin term *alludit* (from the verb *alludo*), indicati
 ![PyCharm](https://img.shields.io/badge/-PyCharm-31A8FF?style=flat-square&logo=pycharm&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=allud1t&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/allud1t)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allud1t&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/allud1t)
-
-</div>
 
 ---
 
